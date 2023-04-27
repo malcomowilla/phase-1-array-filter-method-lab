@@ -49,7 +49,7 @@ describe('index.js', function () {
       const drivers = [
         {
           name: 'Bobby',
-          hometown: 'Pittsburgh' },
+          hometown: 'Pittsburgh' },   
         {
           name: 'Sammy',
           hometown: 'New York' } ,
